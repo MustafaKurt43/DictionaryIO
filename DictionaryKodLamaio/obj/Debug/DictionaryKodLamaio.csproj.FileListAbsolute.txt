@@ -1,0 +1,7 @@
+C:\Users\musta\source\repos\DictionaryKodLamaio\DictionaryKodLamaio\bin\Debug\DictionaryKodLamaio.exe.config
+C:\Users\musta\source\repos\DictionaryKodLamaio\DictionaryKodLamaio\bin\Debug\DictionaryKodLamaio.exe
+C:\Users\musta\source\repos\DictionaryKodLamaio\DictionaryKodLamaio\bin\Debug\DictionaryKodLamaio.pdb
+C:\Users\musta\source\repos\DictionaryKodLamaio\DictionaryKodLamaio\obj\Debug\DictionaryKodLamaio.csproj.AssemblyReference.cache
+C:\Users\musta\source\repos\DictionaryKodLamaio\DictionaryKodLamaio\obj\Debug\DictionaryKodLamaio.csproj.CoreCompileInputs.cache
+C:\Users\musta\source\repos\DictionaryKodLamaio\DictionaryKodLamaio\obj\Debug\DictionaryKodLamaio.exe
+C:\Users\musta\source\repos\DictionaryKodLamaio\DictionaryKodLamaio\obj\Debug\DictionaryKodLamaio.pdb
